@@ -4,10 +4,11 @@ body{
 	text-align:center;
 }
 .book-library{
-	/* background-color:black; */
+	background-color:#ffffff;
 }
 .book{
-	background-color:#f8f8f8;
+	background-color:#F2F1F1;
+	padding:20px;
 }
 .title{
 	text-align:left;
@@ -23,9 +24,4 @@ body{
 	border:none;
 	padding:9px;
 	border-radius:3px;
-}
-.hr{
-	border:8px solid white;
-	margin:10px;
-	/* width:100%; */
 }
